@@ -1,6 +1,6 @@
-### Lectures about GitHub commands
+## Lectures about GitHub commands
 
-## List of 10 git commands most used
+### List of 10 git commands most used
 
 - git init: Initializes a new Git repository in the current directory.
 - git clone: Creates a copy of a remote Git repository on your local machine.
